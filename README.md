@@ -1,1 +1,3 @@
 # Student-Data-Entry-form-using-Tkinter
+
+A python-based project on building a student data entry form implemented using Tkinter, a popular Python GUI toolkit. Designed for educational institutions or organizations managing student information, the application allows users to input and store student data efficiently. The repository includes the Python code for the form, ensuring comprehensive data capture with fields such as name, age, grade, contact information, and more. With an intuitive interface and seamless integration with Python backend functionalities, this Tkinter-based solution simplifies the process of data entry and management for administrators and educators alike.
